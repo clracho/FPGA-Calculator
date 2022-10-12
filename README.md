@@ -1,6 +1,6 @@
 # FPGA-Calculator - University Project
 
-Designed for Xilinx Basys 3 Board. 
+Designed for Xilinx Basys 3 Board using Verilog. 
 
 Implements addition, subtraction, and multiplication using hardware-level components. 
 
